@@ -19,4 +19,4 @@ class ProfileStatusSerializer(serializers.ModelSerializer):
     
     class Meta:
         model = ProfileStatus
-        fields = "__all__"
+        fields = "__all__" 
